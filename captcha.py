@@ -88,7 +88,7 @@ class Captcha:
 def get_captcha_img():
     x = Captcha()
     image = x.gene_code()
-    image.save('/tmp/captcha.png')
+    image.save('/tmp/demo.png')
     print(dir(image))
     print(x.text)
     out = BytesIO()
