@@ -13,5 +13,5 @@ def index():
     return resp
 ```
 
-![](https://raw.githubusercontent.com/AloneBo/Flask-Verification-code/master/captcha.png)
+![](https://raw.githubusercontent.com/AloneBo/Flask-Verification-code/master/demo.png)
 
