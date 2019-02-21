@@ -1,6 +1,10 @@
 # Flask-Verification-code
 
 Usage:
+```
+sudo cp UbuntuMono-RI.ttf /usr/share/fonts/truetype/
+```
+
 ```python
 ...
 from captcha import get_captcha_img
